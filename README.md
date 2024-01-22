@@ -2,7 +2,7 @@
 ## Telegram bot to manage all your music needs.
 <br>
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/CangkirKosong/AIO-MH)
 
 
 
